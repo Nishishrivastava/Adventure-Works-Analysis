@@ -1,4 +1,4 @@
-# AdventureWorks_Dataset_Analysis_using_PowerBI
+# Adventure Works Analysis
 It's a sample database of MS Excel for analysis & visualization. The query editing for analysis was done in Power BI query editor, data modelling was done in model view and visualization part was done in report view.
 # Data Modeling
 ![Screenshot (300)](https://github.com/Nishishrivastava/AdventureWorks_Dataset_Analysis_using_PowerBI/assets/83336594/6ec4c2c3-a27f-482a-bf4c-c4d55f90b9b7)
